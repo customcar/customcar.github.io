@@ -1145,7 +1145,7 @@ jQuery(function ($) {
     }
     var header = $(".art-header");
     var bgimages = "url('images/object104082755.png'), ".split(",");
-    var bgpositions = "670px 164px, ".split(",");
+    var bgpositions = "706px 164px, ".split(",");
     for (var i = 0; i < bgimages.length; i++) {
         var bgimage = $.trim(bgimages[i]);
         if (bgimage === "")

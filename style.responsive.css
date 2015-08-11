@@ -295,14 +295,14 @@
 
 .responsive .responsive-nav ul.art-hmenu>li>a
 {
-   border-bottom: 1px solid rgba(30, 37, 47, 0.8);
+   border-bottom: 1px solid #1E252F;
    padding-bottom: 0 !important;
    margin-bottom: 0 !important;
 }
 
 .responsive .responsive-nav .art-hmenu>li>a
 {
-   border-radius: 7px;
+   border-radius: 8px;
 }
 
 .responsive .responsive-nav ul.art-hmenu>li>a.active
