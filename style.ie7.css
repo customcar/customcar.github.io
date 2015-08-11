@@ -26,7 +26,7 @@ ul.art-hmenu, ul.art-hmenu ul {
    zoom: expression(this.runtimeStyle.zoom="1", this.appendChild(document.createElement("br")).className="cleared");
 }
 ul.art-hmenu>li:first-child {
-   padding-right:0;
+   padding-right:4px;
 }
 
 ul.art-hmenu ul{
