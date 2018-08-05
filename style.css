@@ -485,7 +485,7 @@ li p, .art-postcontent li p, .art-blockcontent li p
 
 .art-nav
 {
-   border-bottom:2px solid #E10923;
+   border-bottom:2px solid #0060a8;
    padding:4px 0 0;
    margin:0 auto;
    position: relative;
@@ -632,7 +632,7 @@ ul.art-hmenu>li>a
 
 ul.art-hmenu>li>a.active
 {
-   background: #E10923;
+   background: #0060a8;
    background: linear-gradient(top, #F6233B 0, #F51933 10%, #F50A26 20%, #DC0922 20%, #C4081E 50%, #AB071A 100%) no-repeat;
    background: -webkit-linear-gradient(top, #F6233B 0, #F51933 10%, #F50A26 20%, #DC0922 20%, #C4081E 50%, #AB071A 100%) no-repeat;
    background: -moz-linear-gradient(top, #F6233B 0, #F51933 10%, #F50A26 20%, #DC0922 20%, #C4081E 50%, #AB071A 100%) no-repeat;
@@ -643,7 +643,7 @@ ul.art-hmenu>li>a.active
    -webkit-border-radius:8px 8px 0 0;
    -moz-border-radius:8px 8px 0 0;
    border-radius:8px 8px 0 0;
-   border:1px solid #E10923;
+   border:1px solid #0060a8;
    border-bottom:none;
    padding:0 24px;
    margin:0 auto;
